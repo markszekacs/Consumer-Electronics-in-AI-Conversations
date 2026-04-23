@@ -1,0 +1,7 @@
+datasets
+pandas
+numpy
+sentence-transformers
+openai
+python-dotenv
+torch
