@@ -1,0 +1,566 @@
+product_category,intents,conversation_id,timestamp
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel']",f7d908abbfabc8acebd13ffda10e3e29,2023-04-10 08:40:28+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel', 'Informational']",245e2ad3057fef654ef6df46596770f1,2023-04-10 20:36:22+00:00
+GPU/Gaming,['Informational'],d73c46bca29f741ba66c14765d2180d4,2023-04-10 22:44:54+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",ce6b9c3314fd052f0a316cb130b300b7,2023-04-13 02:05:02+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",12fa6544088937c2fab24ba34fafa083,2023-04-13 20:37:03+00:00
+Laptop/Computer,['Informational'],313e08714ed80ac4731edd9e00b091ab,2023-04-15 03:55:54+00:00
+GPU/Gaming,['Informational'],912ff4372b542e310ae208915ad16d49,2023-04-17 01:39:39+00:00
+Other,"['Upper Funnel', 'Informational']",77bd5946b0d5f8283e20598c4ba19770,2023-04-17 06:19:08+00:00
+Phone/Tablet,"['Upper Funnel', 'Generative']",92fcbc84f7d0002e616d72e6ce4b67e3,2023-04-18 07:46:50+00:00
+Laptop/Computer,['Informational'],ffb33171769b1a8bf450b8bbcb1c7efd,2023-04-23 21:52:07+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",2c93478a9a4088f5e3c43cd59af034c6,2023-04-25 04:51:36+00:00
+Laptop/Computer,['Informational'],eb4e93a24791aaba9f5c287c71b59b69,2023-04-26 18:16:34+00:00
+Laptop/Computer,['Informational'],94aaedd82930ae99317025314be3beaf,2023-04-26 18:17:08+00:00
+Laptop/Computer,['Informational'],cf8ac4766a75b9db18cf7e535494f1c5,2023-04-26 18:17:34+00:00
+Phone/Tablet,['Informational'],8ac00c0f351efc90dc3fc54d487e3706,2023-04-26 18:25:29+00:00
+GPU/Gaming,"['Informational', 'Conversational']",c0cdc192618bd0e72b97a43a089b1234,2023-04-26 19:00:29+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",b738f67269687fc8e12608b535a37d7a,2023-04-26 20:53:33+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel', 'Informational']",f88db7f1e57ee55f9e0945df756033be,2023-04-26 22:48:29+00:00
+Phone/Tablet,"['Informational', 'Upper Funnel']",271b08dd40a6691685c341f45a4aff05,2023-04-27 01:57:46+00:00
+Phone/Tablet,"['Lower Funnel', 'Informational']",cfd8698809fae24854b21e4c4cf11125,2023-04-27 02:04:05+00:00
+Laptop/Computer,['Informational'],efff961a86bc6cd85f72feebdef8b44f,2023-04-28 06:39:31+00:00
+Laptop/Computer,['Informational'],ca90ff9fd3e599fdb66a8887d5c36beb,2023-04-28 09:45:18+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",c8fcbf8e9afa7e517f2198aa62ba99c9,2023-04-29 10:01:30+00:00
+Camera/Photography,"['Informational', 'Conversational']",fc55e530e97a03f452dea73915e9f1bf,2023-04-29 10:23:27+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",807d438b40449a2a952765c05f8c5ae4,2023-04-29 14:49:59+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",a136592f0d3080d0ceed3cae6d9b54dd,2023-04-29 15:04:34+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",7df4985223b50a37e2b67052e149b951,2023-04-30 04:43:33+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",327093b6b7ed866422a3e5c94bfc5455,2023-04-30 09:11:09+00:00
+Other,['Generative'],8d4212e242fcda6b15596f3637e2d0e2,2023-04-30 09:16:52+00:00
+Phone/Tablet,"['Mid Funnel', 'Lower Funnel']",0bdff545821a23e217135ba740c3a1fd,2023-04-30 18:53:43+00:00
+Phone/Tablet,"['Mid Funnel', 'Lower Funnel']",cee9a7e95ad13a1432b519c827f2488b,2023-04-30 19:05:46+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",6bb4f2f88f12e484085919bb7645027c,2023-04-30 19:57:26+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",1dce5d24f299fefbe4a60e37dad63359,2023-05-01 09:22:35+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",ebcd465559184fbd12a6f277f9436171,2023-05-01 18:57:34+00:00
+Other,"['Informational', 'Generative']",ee939c142e1627ffeb4fd9614da541da,2023-05-02 09:19:21+00:00
+Phone/Tablet,"['Informational', 'Conversational']",f875cbb57d2f686aabc1107c098de292,2023-05-02 22:32:33+00:00
+Laptop/Computer,"['Informational', 'Conversational']",c89e7f876f5888dd4984d21e7710fcb8,2023-05-03 00:35:15+00:00
+Laptop/Computer,['Generative'],b6469500babebf74c0d4cf2a2ad15ef4,2023-05-03 05:37:57+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",681909575ec9b105b782d24caf532133,2023-05-03 12:59:57+00:00
+Phone/Tablet,"['Generative', 'Informational']",23cfbd454ff0d6055c236ee1d6068cae,2023-05-04 04:43:25+00:00
+Other,"['Informational', 'Upper Funnel']",6507b95c5fb81297d7e8b987eaec2074,2023-05-04 06:24:05+00:00
+Other,"['Informational', 'Generative']",532e620830059103abb2e79775c9fb80,2023-05-04 16:18:25+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",db11a08a5607896fb3eef2593d7c73f5,2023-05-04 16:46:35+00:00
+Laptop/Computer,"['Generative', 'Informational']",5125a7349a00b3d6a6f1ba1adf70a143,2023-05-05 12:42:43+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",929081685ada695d06a9b407e54f2321,2023-05-05 12:47:05+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",8ccbff3322d35ddf359abce702acc864,2023-05-05 14:17:07+00:00
+Camera/Photography,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel', 'Informational', 'Generative']",34a2f63a6517d85f23b28fd5735014b4,2023-05-05 17:49:20+00:00
+Camera/Photography,"['Upper Funnel', 'Mid Funnel', 'Informational']",a41b9d829fd7ad4530e8f997095c3bee,2023-05-05 21:06:25+00:00
+Camera/Photography,"['Mid Funnel', 'Informational']",9ac0edd6680bb9b16ae196eece2d594b,2023-05-05 22:15:27+00:00
+Camera/Photography,"['Upper Funnel', 'Mid Funnel']",e0b63121c58a7a8fda813dcc99df00db,2023-05-05 22:21:13+00:00
+Phone/Tablet,['Informational'],38b704569d02b5b8f0c161787c786bd2,2023-05-06 03:55:27+00:00
+Phone/Tablet,['Informational'],c66945412390af4462cf57f027b4fc8c,2023-05-06 03:56:55+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",56e54e98d17a403dd2d1bf01b0c9a303,2023-05-06 09:05:12+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",5fbe885883897f41bbd22e198dc3d023,2023-05-06 14:44:59+00:00
+TV/Display,"['Upper Funnel', 'Informational']",59ffd564ba06743393bc72535de7fb42,2023-05-06 16:04:09+00:00
+Camera/Photography,"['Generative', 'Informational']",9430019d7af87454a07fbe86d28a72a1,2023-05-07 04:20:44+00:00
+Other,"['Informational', 'Upper Funnel']",9ec47426620d837fdc1d5bc23391aea2,2023-05-07 09:06:45+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",0214c801671c19152d526fe2a74437e3,2023-05-07 10:02:23+00:00
+Phone/Tablet,['Lower Funnel'],7804e1d261c4f07fae1a3e3d2cc2505c,2023-05-07 19:03:04+00:00
+Laptop/Computer,['Generative'],137f38fb9e2c2e69c784fe91ef9a6c15,2023-05-07 21:07:43+00:00
+Other,"['Informational', 'Generative']",dd54cef36bd1c9a18134a22b44be9ff9,2023-05-09 16:13:13+00:00
+Laptop/Computer,"['Generative', 'Informational']",8d81529d728623d2c10c044449c6c43c,2023-05-10 07:21:00+00:00
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel']",2831e004b81c6e4c472bf93d48943b98,2023-05-10 07:31:09+00:00
+Laptop/Computer,"['Generative', 'Informational']",5e131b2529e841252d90588e1eb0667a,2023-05-10 13:39:08+00:00
+GPU/Gaming,"['Generative', 'Informational']",79d9d247e99adb55155e0cd93a1dbaa3,2023-05-10 22:16:43+00:00
+Laptop/Computer,"['Lower Funnel', 'Informational']",2470815723e20b410f756a08948801b4,2023-05-11 09:46:29+00:00
+GPU/Gaming,"['Informational', 'Mid Funnel']",e024b145f5cf35aa338dee2ce7fc2e0d,2023-05-12 02:30:07+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",059988980dba458ae509b216daf57847,2023-05-13 11:27:06+00:00
+Phone/Tablet,"['Generative', 'Informational']",072f28464c0dcabecbbff1e5417423bf,2023-05-14 01:56:59+00:00
+Other,"['Upper Funnel', 'Informational']",cf24bf142ede814e4e47db9e562d5e2b,2023-05-14 16:37:57+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",1cfefb9bf37f8077415a6ab79887cdc1,2023-05-15 03:11:04+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",3d1c0379622cb7bedf75744472b34bf7,2023-05-15 11:41:48+00:00
+"Audio (headphones, earbuds, speakers)","['Lower Funnel', 'Conversational']",a511b68773df76a1c1f9beb39cea9c9a,2023-05-16 00:01:40+00:00
+Laptop/Computer,"['Informational', 'Conversational']",3877cb91d82ab8e38704fe86ff490c33,2023-05-16 20:25:25+00:00
+TV/Display,"['Upper Funnel', 'Mid Funnel']",ceabe67a847b4f6772f5bacece4018f9,2023-05-17 12:01:47+00:00
+TV/Display,['Mid Funnel'],28b6941526c087ea45d34baa91786345,2023-05-17 12:59:48+00:00
+Camera/Photography,"['Upper Funnel', 'Mid Funnel', 'Generative', 'Informational', 'Conversational']",bd122e93e9240d5b957cf26db2ad61d4,2023-05-17 13:56:37+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",e26f50319766ad216fc681358c3a714d,2023-05-17 18:15:54+00:00
+GPU/Gaming,['Informational'],98c048c4076b3e088ee657115eeda650,2023-05-18 13:45:50+00:00
+Phone/Tablet,"['Informational', 'Conversational']",240255cce5519c6c467dd0033b99b6a7,2023-05-19 15:05:59+00:00
+Camera/Photography,"['Upper Funnel', 'Informational', 'Generative']",c041a9a2d3055651edeca4ea11fb401b,2023-05-20 05:01:48+00:00
+Laptop/Computer,['Mid Funnel'],69dfe6bb1e28396e3c9b768f54c9bbaa,2023-05-20 08:22:54+00:00
+"Audio (headphones, earbuds, speakers)","['Informational', 'Conversational']",360be56513a910830f76748aa520ccd3,2023-05-20 16:20:17+00:00
+Laptop/Computer,"['Informational', 'Upper Funnel']",562d6284c07db48d5767054509177f77,2023-05-20 17:27:28+00:00
+Laptop/Computer,"['Informational', 'Upper Funnel']",d5f44aedb1a3a9e946494a1885a0c8fd,2023-05-20 17:27:31+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",2854e72ce531a974afd032e03ff63be2,2023-05-20 17:30:55+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",8461156dc738c4eaa4c3b62a679f600f,2023-05-20 17:37:39+00:00
+Phone/Tablet,['Informational'],e8f385077e61cc9f454efc84e7bb530d,2023-05-20 18:03:20+00:00
+GPU/Gaming,['Informational'],fcd27526ea93ec7c5b52d69c83252068,2023-05-21 00:59:51+00:00
+GPU/Gaming,['Informational'],44a22c032dc9932c71a550825b745623,2023-05-21 01:02:19+00:00
+Other,"['Informational', 'Conversational']",f7419e3f3ad5a92d9678f47c7ddfbed6,2023-05-21 07:45:34+00:00
+Phone/Tablet,"['Informational', 'Conversational']",572b9a72b219700a31d746de16945e6c,2023-05-21 07:54:18+00:00
+Phone/Tablet,"['Informational', 'Conversational']",ffe6f0914ded20928cafc56949d314d4,2023-05-21 14:32:28+00:00
+Phone/Tablet,"['Informational', 'Generative']",feac9d64ba6c73fe7ef946d7b92d629b,2023-05-21 19:00:14+00:00
+Phone/Tablet,"['Informational', 'Generative']",7b6fe07f0c17af88f69aa1f63b59c008,2023-05-22 02:42:22+00:00
+Phone/Tablet,"['Informational', 'Generative']",b96a5bd1aa2058fbc736de4c9a36ef02,2023-05-22 02:45:13+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",3b6438f2a6785daf54720481c49c147b,2023-05-22 11:11:51+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",91c1167aae5bc30b1c0ada346fe18d95,2023-05-22 11:15:12+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",8b5188e8c0273ce522d311e8c4336fd4,2023-05-22 20:17:58+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",b6a734c139da9332451be449e9ac2634,2023-05-22 23:10:49+00:00
+Laptop/Computer,"['Generative', 'Informational']",64d05716ea999a41666864c44982c2b3,2023-05-23 05:44:40+00:00
+Other,"['Upper Funnel', 'Informational']",5a5fdef63cb3930b06dfce6f278f004f,2023-05-23 08:15:14+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",67e80a471bb08881cb60e94ed62afd65,2023-05-24 04:05:02+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",e5894fb4767f03618ec1b6d4c3000cd9,2023-05-24 04:54:36+00:00
+"Audio (headphones, earbuds, speakers)","['Informational', 'Conversational']",08419a615eb936ae27231f37c2f5977c,2023-05-24 09:49:15+00:00
+Other,"['Upper Funnel', 'Mid Funnel']",40a2cfb244334cdcf4f49003f3479bed,2023-05-25 02:35:54+00:00
+TV/Display,"['Informational', 'Upper Funnel']",8ca1348d4ff7a427881b549f2b7d9a62,2023-05-25 06:58:18+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",31651bcb67c8f76326f337760a9cc687,2023-05-25 09:41:42+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",cb5bd1854a3a25cf758876d92e3d012e,2023-05-25 09:42:06+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",2dd2a3280c6f5d9abb8c65c194781a84,2023-05-25 09:45:18+00:00
+Laptop/Computer,"['Generative', 'Informational']",1bed3788bff648bc2349bfc14b61fd98,2023-05-25 10:18:35+00:00
+Laptop/Computer,"['Informational', 'Conversational']",34f15a358b0f82a4649fe12f22608b06,2023-05-25 18:34:39+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel', 'Informational']",ccfeb972954a96b7695d554f770527fe,2023-05-26 11:32:12+00:00
+GPU/Gaming,['Informational'],849acb408d27be3146652046cd7a11ce,2023-05-27 00:28:07+00:00
+Laptop/Computer,['Mid Funnel'],1c7846cd93206ed00793900947feca67,2023-05-27 10:58:20+00:00
+Laptop/Computer,['Mid Funnel'],d101dd0a18ef0743dc53728f986eb86d,2023-05-27 11:02:31+00:00
+Other,"['Generative', 'Informational']",f72b563025eace964de9763075012a96,2023-05-27 21:59:59+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel']",46cd773d02c4b96ba630e92dc9c651ba,2023-05-27 23:54:30+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",0d594c8b528633982d49dececc2ee3c7,2023-05-28 10:44:11+00:00
+Laptop/Computer,"['Informational', 'Conversational']",f05d2053ed3056f14c221dfb9bd835ce,2023-05-28 12:34:32+00:00
+Laptop/Computer,['Informational'],aa03467acddadcb16cf25d03aafecd90,2023-05-29 04:13:10+00:00
+Phone/Tablet,['Informational'],8e18eb918579a41c6a00b0957951f903,2023-05-31 02:14:57+00:00
+Other,"['Upper Funnel', 'Informational']",97d2bba753d2df952f59300b68739016,2023-05-31 08:05:29+00:00
+Other,"['Upper Funnel', 'Informational']",10271b6cc9123a275d5cb65394934a39,2023-05-31 08:16:42+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",7874c1f2826201c7783579f3ea8d9d74,2023-05-31 08:28:52+00:00
+Other,"['Upper Funnel', 'Informational']",c3870a347b057cd000256cc5d963fe07,2023-05-31 08:38:52+00:00
+TV/Display,"['Informational', 'Generative']",81519b0990ad4de73e5b3510e6f8c568,2023-05-31 10:58:52+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",541b8e84c5f60063768978af264b9a07,2023-06-01 01:32:51+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",00dae6741158bd666459acbacfb5f24b,2023-06-02 17:49:18+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",1676c11dd0a040eba259b0af42bfd0dc,2023-06-03 06:36:13+00:00
+Laptop/Computer,['Informational'],eb91ffcf8d570fc8c1195169251701ad,2023-06-03 07:23:23+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel', 'Informational']",3ae0025b3929cadcee618f2cea3320b3,2023-06-03 20:41:17+00:00
+GPU/Gaming,['Informational'],cef82313abbc76f8e92c814833f0fe11,2023-06-03 22:17:10+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",0ee0ea69b74f41063309b9f62daffff3,2023-06-03 22:22:37+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",3e92843a039b5b3144da3efda880400f,2023-06-04 21:37:16+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",6d9a2154ba43be7200b7c2cc648f36f0,2023-06-05 02:00:14+00:00
+Other,['Generative'],ac447f84985df13fe6129a3242de211c,2023-06-05 21:16:50+00:00
+Camera/Photography,"['Informational', 'Upper Funnel']",ab64120e1e53cf59d87f1d9127413ffd,2023-06-06 03:28:25+00:00
+Laptop/Computer,"['Informational', 'Conversational']",0138d6f78eed45c68d8ef5a41ce62c1b,2023-06-06 09:36:50+00:00
+Other,"['Generative', 'Conversational']",815d4e00c11788016cc6ec2b1a810f9b,2023-06-07 17:11:52+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",1ccfe503a6adad56d8edd4c44065e732,2023-06-08 04:11:33+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",a13467c4bdb79f2492065e5d398c327e,2023-06-08 10:37:26+00:00
+TV/Display,"['Informational', 'Conversational']",d0de9f1d4d52ae0fe9960c8b264b4623,2023-06-08 15:42:43+00:00
+Laptop/Computer,"['Lower Funnel', 'Informational']",5381aa85291eb6384d0596eeb11dbe0e,2023-06-09 09:30:34+00:00
+Phone/Tablet,"['Generative', 'Informational']",1a5486dccfb0ef17dadb6b6a9c6a9619,2023-06-10 19:30:57+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",61622bbefa24f7e0ba385efad642d3aa,2023-06-12 23:49:06+00:00
+GPU/Gaming,"['Generative', 'Conversational']",ab6bd4f182d00f376353be76d3571ae6,2023-06-14 02:22:39+00:00
+GPU/Gaming,"['Generative', 'Conversational']",24f376b25360743834c7d6afb3b6b97f,2023-06-14 03:44:54+00:00
+Camera/Photography,"['Mid Funnel', 'Informational']",ae4dbcaed4cab6d511bbf231390ce576,2023-06-14 08:22:03+00:00
+Camera/Photography,"['Mid Funnel', 'Informational']",a2109c3b1b39b4148635b33d75dc0389,2023-06-14 08:25:20+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",e170404078b777c9c5e07c0dc4d1e9de,2023-06-14 08:30:07+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",859f6899c505a4693ae779cb095c22f7,2023-06-14 18:48:22+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",fbe551134c2efad381ea555c375f0112,2023-06-15 05:27:47+00:00
+"TV/Display (televisions, monitors, projectors)","['Generative', 'Informational']",fbfabfa3d6cd9387d94397a8a7b659e5,2023-06-15 09:16:54+00:00
+TV/Display,['Generative'],0c40860687b2b661daf04f6c02092080,2023-06-15 09:18:33+00:00
+"TV/Display (televisions, monitors, projectors)",['Generative'],19313b81e6f0439d1924c0aa6b189472,2023-06-15 09:21:34+00:00
+TV/Display,['Generative'],c4639d64f38f6429d79cef93a171751b,2023-06-15 09:23:49+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",a2d1783208b586bd86423690e866c14d,2023-06-15 11:40:35+00:00
+Other,"['Upper Funnel', 'Informational']",bcac90f2079501419837eeb00a7306fb,2023-06-15 18:29:49+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",9c35daaa47fb856834b288f2a88f16c7,2023-06-16 21:53:53+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",07555407c7b78279949e54f1b3f2be85,2023-06-17 04:16:45+00:00
+Laptop/Computer,"['Mid Funnel', 'Informational']",a8cbc569e0e61e79a4b2a8cd384df6ab,2023-06-17 08:35:59+00:00
+Laptop/Computer,"['Lower Funnel', 'Post-purchase']",684d7549a131f0ccc68a2dd247df9e1c,2023-06-17 20:08:03+00:00
+Laptop/Computer,"['Mid Funnel', 'Upper Funnel']",34d91a0253e1de8dc48d9aa77b38f54c,2023-06-18 14:06:23+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",8046076c6ba38fde40801c3aade64619,2023-06-18 20:39:32+00:00
+GPU/Gaming,"['Post-purchase', 'Informational']",5c4ace859aba2bda53b45e6d0434bacf,2023-06-19 04:40:16+00:00
+Laptop/Computer,['Informational'],ccc0aa690dbd34332850d4a5f9a0f30b,2023-06-19 17:48:44+00:00
+Other,"['Upper Funnel', 'Informational']",3cee1c9902cbd046bed650f47c0df064,2023-06-20 16:00:33+00:00
+Laptop/Computer,"['Post-purchase', 'Conversational']",452859452ce9892397110be65627f3b4,2023-06-20 20:05:45+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel', 'Informational']",3ceb66f769183e1f6c6e75ce75116acd,2023-06-21 21:32:54+00:00
+TV/Display,"['Upper Funnel', 'Informational']",6cfb0d89cc34c0ca34646f30e3b22fe8,2023-06-23 00:00:53+00:00
+GPU/Gaming,['Generative'],6c72f11bc116387a913f7d1c2549996e,2023-06-23 14:09:58+00:00
+Laptop/Computer,"['Generative', 'Informational']",1c12d4d0f1d18077ac0c616982c6ee41,2023-06-23 17:26:19+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",aa15bcff75400849be5bc820c013c9ba,2023-06-23 17:29:20+00:00
+Laptop/Computer,"['Upper Funnel', 'Generative']",bcbe0f4b98ffed341a41ff49c0f2b19f,2023-06-23 17:31:58+00:00
+Laptop/Computer,['Informational'],b54bf81c1889199de02fc5afe81ce94f,2023-06-24 04:40:18+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",7319beccea356b388de1fe30c167d592,2023-06-24 05:44:49+00:00
+Phone/Tablet,['Informational'],727bd9bb98cd7f27a8505110b37568ee,2023-06-25 01:07:42+00:00
+Camera/Photography,"['Informational', 'Generative']",743e8d9dbf5b499b7884fcf092cf4ea2,2023-06-25 04:50:49+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",075231fd5e20d6b1f8bc8114fb8daa35,2023-06-27 07:35:05+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",487b3575e8d5841aca7d24dc254b7d54,2023-06-27 14:09:27+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational', 'Conversational']",40cc80704cd0c9f94e2102c3f234cc15,2023-06-27 14:15:30+00:00
+Other,['Generative'],250a11eda0af108e51b98987a3a3b0d2,2023-06-28 23:47:06+00:00
+Other,['Generative'],d5f189a3e1dd9afb786f68c312387511,2023-06-28 23:56:45+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",4011bc707200d7b340038de34005d755,2023-06-29 17:35:13+00:00
+Camera/Photography,"['Generative', 'Informational']",8e8fd112bb4ed8b2471304540f1a42b5,2023-06-30 07:25:12+00:00
+GPU/Gaming,['Informational'],92a5ba3c7fdda7e5e934a528320df30f,2023-06-30 07:50:35+00:00
+Camera/Photography,"['Mid Funnel', 'Lower Funnel', 'Informational']",3acbaadec964d39cbe8dd2cb5207f940,2023-06-30 09:47:36+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",af920eae019c097f5eed406a2c1336e0,2023-06-30 17:27:11+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",217d9cc1d1b36a0b18c2e2a5e534884b,2023-06-30 20:41:16+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",c4d6e165bfde44c9dc8d13ae7d25c179,2023-06-30 22:07:21+00:00
+TV/Display,['Informational'],b8aa54379d6d7fe404e8d1db115d2a8c,2023-07-01 01:22:07+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel']",b4479662c451ebfa173546f29607ce0f,2023-07-01 19:19:17+00:00
+Laptop/Computer,"['Mid Funnel', 'Informational']",f6e879c436b7ff7a942615380770193e,2023-07-02 18:57:57+00:00
+Camera/Photography,['Informational'],204e02f120eb382eb635e24789861936,2023-07-03 11:12:14+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",fdcaad1aef9863b8e915bba6ac065e79,2023-07-03 23:44:16+00:00
+Laptop/Computer,"['Informational', 'Conversational']",b8f4393841274bbccbb9010365439332,2023-07-06 12:47:49+00:00
+Other,"['Upper Funnel', 'Informational', 'Conversational']",37451a3fe1e9b2f338d7e0460d6835ed,2023-07-06 13:17:32+00:00
+Camera/Photography,"['Post-purchase', 'Informational']",86419c66477c83c479024e1b2252ca2d,2023-07-08 00:07:54+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",dbf53b2d95f96207f4a7142e06675a37,2023-07-09 16:41:22+00:00
+"Audio (headphones, earbuds, speakers)","['Informational', 'Upper Funnel']",6452df7081da69505226dbcf85f366a4,2023-07-10 19:59:50+00:00
+"Audio (headphones, earbuds, speakers)","['Informational', 'Conversational']",d182137a4ac5bb78a13d5ae32d5a4868,2023-07-10 20:06:05+00:00
+Other,"['Lower Funnel', 'Mid Funnel']",2d3042df470594f608246c79bd09592a,2023-07-11 22:50:56+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",70c63f832d659939a9728af44ce74069,2023-07-13 00:09:11+00:00
+Laptop/Computer,"['Informational', 'Conversational']",291e7f2b3e3b9834ac20954337d1f4be,2023-07-13 02:12:20+00:00
+Laptop/Computer,['Informational'],85af986dfc774b6b07be65329b3f9465,2023-07-13 14:29:35+00:00
+Other,"['Upper Funnel', 'Informational']",9570def78af43fb1685727c1fbfbf5d2,2023-07-13 21:21:49+00:00
+Camera/Photography,"['Informational', 'Post-purchase']",d0f7ce3590c8742cf0d82fabab50cdb9,2023-07-13 22:15:33+00:00
+Phone/Tablet,"['Informational', 'Post-purchase']",854c9c948ea39f5ddf80a81db35a50a2,2023-07-14 20:45:43+00:00
+Phone/Tablet,"['Informational', 'Conversational']",ac04cd4e81007deebc94cfd83d0f0ca3,2023-07-15 02:56:37+00:00
+Camera/Photography,"['Post-purchase', 'Informational']",64bc3c77338620c48585e024269b10c4,2023-07-17 05:41:48+00:00
+Phone/Tablet,"['Informational', 'Generative']",8457667c18613462bc27ee5e2506a911,2023-07-17 08:17:56+00:00
+Phone/Tablet,"['Informational', 'Generative']",b32caab7a00a31448e9b16436335f1d8,2023-07-17 08:44:02+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",8f73b2f4393251d1729f0ac9c07ce21f,2023-07-17 10:26:26+00:00
+Camera/Photography,"['Post-purchase', 'Informational']",45e224cddd33213dedbd66eae6440360,2023-07-18 11:37:38+00:00
+Phone/Tablet,"['Generative', 'Informational']",a8801f7d250110802c3a609af75e2eb8,2023-07-18 15:09:09+00:00
+Phone/Tablet,"['Informational', 'Generative']",b1fae9faf8b60338c0e5691cecb1ff2e,2023-07-20 15:02:38+00:00
+Camera/Photography,"['Informational', 'Conversational']",a046a7b0a4e9a1c1ade992de327166bf,2023-07-22 06:29:12+00:00
+GPU/Gaming,"['Informational', 'Conversational']",821878f2dd7110ae92a0ac22eee9b080,2023-07-22 17:37:02+00:00
+TV/Display,"['Informational', 'Post-purchase']",bad1ac9566856b1ead58ab4ea61bd4e9,2023-07-24 02:10:05+00:00
+Laptop/Computer,['Informational'],057f15ae62de00ad520932ccec10b8a2,2023-07-24 03:12:40+00:00
+Camera/Photography,"['Lower Funnel', 'Mid Funnel']",b08cab469b23fed26169e6490d9e50d7,2023-07-25 05:17:48+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",75168a3e9a6dd11a4b283ba0bba95b88,2023-07-26 09:33:46+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",5fa2efa5173db423a5da42432027d094,2023-07-26 10:02:08+00:00
+"Audio (headphones, earbuds, speakers)","['Post-purchase', 'Informational']",e4558ff6e0d99ae5c8b91aafedcbf4a4,2023-07-26 11:32:43+00:00
+Laptop/Computer,"['Generative', 'Upper Funnel']",469a71d98579d04d2a9486793fd5d970,2023-07-27 10:25:08+00:00
+TV/Display,"['Upper Funnel', 'Informational']",acb12fe1b611dbf899f08d0801bf0ab9,2023-07-29 02:54:49+00:00
+Laptop/Computer,['Informational'],e7eea7b04e0f6a686bbe790b6b9db2c3,2023-07-29 10:02:13+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",4c92a5117e658d348350395e1031ceac,2023-07-29 11:19:33+00:00
+GPU/Gaming,['Informational'],82f778ceb1505849f24766365f2bb6d1,2023-07-29 11:50:30+00:00
+Camera/Photography,['Generative'],5abe6df564e170d43ae87ca93f90a2a3,2023-07-31 17:37:57+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",eff0cc4d3ff54f5b24138570ccebf747,2023-08-01 13:03:09+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",af2f83b89f52ecd17284a50471e95ae1,2023-08-01 13:51:14+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",6bd136f2cc2dfcca0e79330715d9f727,2023-08-02 00:57:18+00:00
+"Audio (headphones, earbuds, speakers)","['Informational', 'Conversational']",9eab4af9b8ed276b80f4574aa390b176,2023-08-02 03:07:52+00:00
+Camera/Photography,"['Informational', 'Generative']",0ce507d9c75842591c91d70c21200bfa,2023-08-06 12:24:49+00:00
+Other,"['Upper Funnel', 'Informational']",9e9b6563c56e1f0be4fe2815391c070e,2023-08-07 00:26:17+00:00
+Laptop/Computer,['Informational'],7bd248a5e3c0b4fccf7ed544573dcab1,2023-08-07 22:18:36+00:00
+TV/Display,"['Upper Funnel', 'Mid Funnel']",d7ab67ceab6fd808a653881c3e3e510c,2023-08-08 21:15:24+00:00
+Other,['Generative'],2d6240b943ff1810d034c4a9528ec60f,2023-08-09 18:55:25+00:00
+TV/Display,['Generative'],2f9e10187fbacc565769397f00f71885,2023-08-09 18:59:18+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",535ee8fa47aa41c6f465aaa6f8a9a8d3,2023-08-10 16:46:41+00:00
+Laptop/Computer,"['Generative', 'Informational']",a6982b280d20e0b0a6a28867de815a47,2023-08-11 17:11:12+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",aea9e6914e1dc4de14e861183a8626fa,2023-08-12 04:18:17+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",ad15d4c7322347b448a0dd444f8c22c2,2023-08-12 06:55:45+00:00
+Phone/Tablet,['Informational'],c2a27a63763ceb870f71c2274d268646,2023-08-13 22:22:59+00:00
+Phone/Tablet,"['Generative', 'Informational']",35b0b171da3f6d5ea709663a8b1c8bda,2023-08-15 02:30:40+00:00
+TV/Display,['Informational'],78e0d6c0760cc30fe2ae67f70ec86246,2023-08-16 06:54:26+00:00
+TV/Display,"['Upper Funnel', 'Informational']",d3fe5b53de442d6b688fab90bdc0ade2,2023-08-17 21:06:19+00:00
+Laptop/Computer,"['Informational', 'Upper Funnel']",74e85c0d8e7cc76c01db8147c54b39c0,2023-08-18 09:52:40+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",6a525db29bbae52a4d6ba55d38299059,2023-08-20 07:17:57+00:00
+"Audio (headphones, earbuds, speakers)","['Mid Funnel', 'Lower Funnel']",d4482a6de32c1aa70cb44eecf1be6eab,2023-08-20 22:58:55+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel']",c1a4563e00bb896db4609c182b2f20df,2023-08-20 23:13:04+00:00
+Camera/Photography,"['Informational', 'Generative']",fe4305a9383a8c0b9ddc3b3348aac528,2023-08-21 06:02:17+00:00
+Camera/Photography,"['Lower Funnel', 'Mid Funnel']",a3fc3f18d23177bb94b69de1e886e760,2023-08-22 14:19:31+00:00
+TV/Display,"['Upper Funnel', 'Informational']",9ed7d5d51da2ed87e9c2809dcb191438,2023-08-22 20:10:54+00:00
+TV/Display,"['Mid Funnel', 'Lower Funnel']",eca101fd45af39692fe28cb0449c9faf,2023-08-27 10:56:02+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",f14f962a6e65431368c8db13e0234df8,2023-08-28 17:00:59+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",27b0cb365e76cb3e25fce8e903b22c2c,2023-08-28 19:33:47+00:00
+Other,"['Informational', 'Post-purchase']",18220feb7f3711fde0f6000c6a0d612f,2023-08-30 19:02:23+00:00
+Phone/Tablet,"['Mid Funnel', 'Lower Funnel']",4d7dc5be3f19f2a1b8405aecd10b74a5,2023-08-30 20:15:34+00:00
+Laptop/Computer,['Lower Funnel'],6f2883080d5ea840db8f8f8c141a89c5,2023-08-30 20:46:32+00:00
+Laptop/Computer,"['Informational', 'Conversational']",8f47efe724f985170063d8cc45816835,2023-08-31 00:31:47+00:00
+Laptop/Computer,['Generative'],8ec05d85b9a6d0cf3c4ad67c63f0497c,2023-08-31 09:42:13+00:00
+Other,"['Generative', 'Informational']",4c9070d8b4808830c9d571ac12c63960,2023-08-31 09:45:06+00:00
+Laptop/Computer,"['Informational', 'Conversational']",8a3c1e8a38665bd3f92e1197836ef348,2023-09-02 10:36:30+00:00
+GPU/Gaming,['Generative'],f0acab66256fc880b3b0746f6f0d4b84,2023-09-05 04:32:45+00:00
+Camera/Photography,"['Mid Funnel', 'Informational']",713a047dfb70bcb8abd82dc9746780be,2023-09-09 05:12:23+00:00
+TV/Display,"['Informational', 'Conversational']",283705b0a032d19779137851ea5f9013,2023-09-09 13:16:52+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational', 'Generative']",83e43d6538ac82ec77f04ac5525c93a5,2023-09-11 05:32:21+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",6edb288a93a9ba6820fb34cebbc6f251,2023-09-11 17:44:30+00:00
+Laptop/Computer,"['Mid Funnel', 'Informational']",6b90766b33a31adadaf5cfa8a613f9a3,2023-09-12 08:11:27+00:00
+Phone/Tablet,['Generative'],a6f219e264a7c50c6c04cfaacca028d3,2023-09-13 04:46:57+00:00
+Camera/Photography,"['Lower Funnel', 'Mid Funnel']",2029aa46f367d91f37870debb18ab278,2023-09-13 06:44:06+00:00
+Laptop/Computer,['Informational'],6a3dc94d42d3fa312596872b1c81a4f2,2023-09-13 13:57:26+00:00
+Phone/Tablet,"['Generative', 'Informational']",7c6ac1730670f7fdf99b60e4f22f00c1,2023-09-15 05:48:28+00:00
+GPU/Gaming,['Informational'],5540652408f95a0b254761f4af0d032d,2023-09-16 19:31:45+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",42b67bc73fe5e19005f2bac2d09372ea,2023-09-18 15:40:50+00:00
+Other,"['Upper Funnel', 'Informational']",bc3a86e7a40b1945823bd1a925c1a17f,2023-09-18 17:06:12+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",acdd929280e495c566029ea832ce6143,2023-09-19 15:13:53+00:00
+TV/Display,"['Generative', 'Informational']",9cbd1a206303bdbdaaca899b0df15d72,2023-09-20 04:42:25+00:00
+Phone/Tablet,"['Generative', 'Informational']",b9487cd04e386d6685f082a8a129d6d2,2023-09-20 18:05:07+00:00
+Phone/Tablet,"['Generative', 'Informational']",1cf1ac796b0a9967f3bc6b46f52a37e5,2023-09-20 19:20:06+00:00
+Laptop/Computer,['Generative'],7c9c9adde567673e2152bdde0986897e,2023-09-22 05:02:52+00:00
+Camera/Photography,"['Informational', 'Conversational']",a9451d011791b2bb95bb9576fe7e78f5,2023-09-23 02:32:21+00:00
+Camera/Photography,"['Upper Funnel', 'Mid Funnel']",70a69c277a9644d9d84741e1647a607b,2023-09-24 16:36:24+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",bcc609d05921f008fcf23e32aa158899,2023-09-26 14:01:27+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",7c76a990c0c87f1d27abcf085f4a7508,2023-09-26 15:39:29+00:00
+Other,"['Post-purchase', 'Informational']",045f67baa27f67cca3b8a8ad7b776c82,2023-09-27 17:41:45+00:00
+Other,"['Upper Funnel', 'Informational']",2f8502fe9732890550f299698b9f4d99,2023-09-27 17:50:04+00:00
+Other,"['Post-purchase', 'Informational']",06c96dba0eb32dbb4e0a77d5c69f5f87,2023-09-27 17:55:09+00:00
+Other,"['Lower Funnel', 'Informational']",179931caf052736c81b176bdea382a28,2023-09-27 17:59:24+00:00
+Other,['Generative'],0006ff8badcb0a418fde0ec6030ec6f4,2023-09-28 04:52:52+00:00
+Laptop/Computer,"['Lower Funnel', 'Informational']",d5e40fd29d1e3211dda14ad9d166e1a1,2023-09-28 17:15:39+00:00
+Laptop/Computer,"['Generative', 'Conversational']",7e0d197dee9f7f853d9af7f673c7b36b,2023-09-28 19:55:19+00:00
+Phone/Tablet,"['Informational', 'Conversational']",fbd726fb6af86dbb70fd60d5ba7506ed,2023-09-29 07:04:27+00:00
+Phone/Tablet,"['Informational', 'Conversational']",2e1261ff5e7b52e2d57baea10f9959cd,2023-09-29 07:11:40+00:00
+Other,['Generative'],12be7a2417a733e20098e6d543c3aa72,2023-10-01 13:23:09+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",6141dbbfc85de75278ee0d73bf98965a,2023-10-03 18:34:48+00:00
+"Audio (headphones, earbuds, speakers)","['Generative', 'Informational']",f6e3e0ce92b79cc1249cf70b47ac947e,2023-10-04 02:00:11+00:00
+GPU/Gaming,['Informational'],c1a03cd719f589859aba62b47b7338a7,2023-10-05 04:31:48+00:00
+"Audio (headphones, earbuds, speakers)",['Generative'],5447ae0d98d5731c48817c51c68a1f55,2023-10-05 05:41:59+00:00
+Other,"['Generative', 'Informational']",aa862879bfffab8a85ff1d4f3efa8c96,2023-10-06 01:54:02+00:00
+Other,"['Generative', 'Informational']",4cd3fb16c42795138e64a233c0b15bff,2023-10-06 02:40:01+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",e08e26718fcd409438acdbdc9b369f56,2023-10-06 10:08:01+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",c09607f19121979d60aeb38818b9bb49,2023-10-06 14:57:36+00:00
+Phone/Tablet,"['Generative', 'Informational']",88dd23aaeaf84ad5d403f24ff2d8fc14,2023-10-06 17:12:15+00:00
+Laptop/Computer,"['Informational', 'Conversational']",7b7b48267a6c48b87b082ee3e95e5465,2023-10-06 19:02:36+00:00
+GPU/Gaming,"['Mid Funnel', 'Informational']",2395434cd3177e37d97ce2c14f1f8808,2023-10-06 22:45:28+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel', 'Informational']",8d82733c288688628a1318fd65417aec,2023-10-07 03:27:03+00:00
+Phone/Tablet,"['Generative', 'Informational']",9ca76b200997169b507aded981c6bfe0,2023-10-07 13:08:07+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",fb36f8355d2783dd74bd4f4845715a0c,2023-10-08 04:31:10+00:00
+Laptop/Computer,"['Generative', 'Informational']",699487d3e66dfe2bf81533bd819020cc,2023-10-10 10:45:45+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel']",5cf650c053fdf1001708f6f2d56358f9,2023-10-10 10:49:59+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",ebeae2209d0ac18ee45cb31f8924877b,2023-10-10 20:39:13+00:00
+Phone/Tablet,"['Informational', 'Conversational']",83fc3449a5f4a34106da4ec8450d8123,2023-10-11 11:00:47+00:00
+Other,['Generative'],a020f214c0763de1fd10d7e29d2b6e3d,2023-10-17 04:39:15+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",c5024f5437caab4f924d5337b7977873,2023-10-17 17:55:41+00:00
+Laptop/Computer,['Informational'],2d6291746cc1ff98d79365c9622e198c,2023-10-20 09:13:59+00:00
+Phone/Tablet,"['Generative', 'Informational']",71aa249b0e4f61a32f317b8fe200368c,2023-10-20 19:44:23+00:00
+Phone/Tablet,"['Generative', 'Informational']",84237dbd3ff84bdd32ce4801b17b73b4,2023-10-21 09:51:34+00:00
+Camera/Photography,"['Informational', 'Upper Funnel']",31dc747ee2e3481b92919871f54cd6cd,2023-10-22 08:57:24+00:00
+Laptop/Computer,['Informational'],e0cdde21bb0a00cf24a298ba94c7b0ea,2023-10-22 16:31:02+00:00
+Phone/Tablet,"['Post-purchase', 'Informational']",a9c153502c8aa9a46272fa5f30f3be2a,2023-10-24 13:34:25+00:00
+Other,['Generative'],d9eac8ca983b48ed3b96f05c61b59abe,2023-10-26 04:08:45+00:00
+Phone/Tablet,"['Informational', 'Upper Funnel']",1fca1fa63da0857c4017249d23c72ce3,2023-10-26 12:57:58+00:00
+Phone/Tablet,"['Generative', 'Informational']",4180eb6dd11d474d79ea96bb490170c5,2023-10-27 04:51:16+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel']",fb41c2f2db98808d024a061a6c35fe89,2023-10-27 10:51:44+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel']",18241d287cfff4a9f120c6259b9d3fcf,2023-10-27 10:56:46+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",4dbc1b78c3451fa43dc0cc63f666df4e,2023-10-27 12:29:32+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",d65bd80626ae1a77b9bd47859aab9052,2023-10-27 12:37:39+00:00
+Laptop/Computer,"['Mid Funnel', 'Informational']",2a8282c32a894308767aaa8f01b0e5e0,2023-10-31 08:55:10+00:00
+Laptop/Computer,"['Informational', 'Upper Funnel']",efd878527e5b054d6f50844b8a7b0d33,2023-10-31 09:48:53+00:00
+Camera/Photography,"['Informational', 'Generative']",d8add6908f19c7f93f67aa95d2c2568d,2023-10-31 09:52:45+00:00
+GPU/Gaming,"['Mid Funnel', 'Informational']",3cb72fab56e237fad79f2bb9a2fc85e6,2023-10-31 19:07:49+00:00
+Phone/Tablet,['Mid Funnel'],b4e5a0ee3206be3eee32cadf201535b1,2023-11-01 20:29:51+00:00
+Camera/Photography,"['Generative', 'Informational']",4188c20c0a75f5b5a03a0988b17d2769,2023-11-02 05:24:02+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel']",d98bc12f7a298a709690a0e666511fdd,2023-11-05 19:04:55+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",99e34ca1254b7732cf0ffd1b862f8ef3,2023-11-05 23:54:53+00:00
+Laptop/Computer,['Conversational'],5941cb2d3521998b129a407890ece45c,2023-11-07 19:54:44+00:00
+GPU/Gaming,"['Upper Funnel', 'Generative']",b137e97761103285bebec8ebf661e40d,2023-04-13 11:58:55+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",6652b76edb4782d00e62fb100b0ba114,2023-04-14 21:37:29+00:00
+Other,"['Informational', 'Upper Funnel']",ee2cb6c29dd3a19898c059dd13d536e1,2023-04-17 03:26:52+00:00
+Other,"['Informational', 'Conversational']",a5aae6199e4cbb97f020337bce9dbf66,2023-04-19 17:45:21+00:00
+Other,"['Mid Funnel', 'Lower Funnel']",502bafb05502d3373315bd7c79b5c216,2023-04-19 17:59:41+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",03e4c27c1b0b9662154f8294f42d3b34,2023-04-22 21:53:17+00:00
+Other,"['Upper Funnel', 'Mid Funnel', 'Informational']",be93c22234d3cf9dd644e38c6b8f39ad,2023-04-23 00:23:15+00:00
+Other,"['Upper Funnel', 'Informational']",105bc37307c5ca6fd1b7c09f421772c4,2023-04-23 13:49:43+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",d4664962d32d888917932d86e216e5ec,2023-04-23 16:58:25+00:00
+Other,"['Informational', 'Conversational']",36bf89dbcea74887ee97b3de890deddd,2023-04-23 18:44:48+00:00
+Other,"['Upper Funnel', 'Informational']",cf65bbb5b011013721f056c204dd0fa8,2023-04-26 08:53:08+00:00
+Other,"['Upper Funnel', 'Informational']",1e8bf41a70a250e9397e7d9c7e2a79c3,2023-04-27 04:57:07+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",0d4567725730b09042f54433a4cacba5,2023-04-27 21:11:13+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",3a16345237242c0385b2bf1a924c9624,2023-04-28 03:49:48+00:00
+Other,"['Informational', 'Conversational']",c92cf3aec78d8cd8f21c4478c11e731e,2023-04-29 00:57:41+00:00
+Other,"['Informational', 'Generative']",df7ca772aa040cc9c5829ce50ea20929,2023-04-29 07:49:53+00:00
+TV/Display,"['Upper Funnel', 'Informational', 'Conversational']",0cfa639eca14b934959a1602583f9b83,2023-04-30 07:38:54+00:00
+Laptop/Computer,['Conversational'],ec8174caf71dc3bbcae84a2e7d54029d,2023-04-30 09:20:45+00:00
+Other,"['Generative', 'Informational']",3b9979d39124081677fe4ec4f1ff4d89,2023-05-02 00:33:26+00:00
+Other,"['Mid Funnel', 'Upper Funnel']",51cda95e85f29d2653582f68c4f415f4,2023-05-03 09:26:28+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",c197564f9992014ead2449ab87070dd9,2023-05-05 07:55:38+00:00
+Camera/Photography,"['Mid Funnel', 'Informational']",67cf19804378f4a2012899f0380442c2,2023-05-05 12:46:03+00:00
+Camera/Photography,['Mid Funnel'],fbe613746d01b8d464f70a21e0462016,2023-05-05 12:50:04+00:00
+Camera/Photography,"['Mid Funnel', 'Informational']",755348d14f6e9ea5c15310dcb0475b2f,2023-05-05 12:51:45+00:00
+Camera/Photography,"['Mid Funnel', 'Informational']",9396c0d0bcdf1ac01d18bdd1135045b7,2023-05-05 12:52:15+00:00
+Other,"['Informational', 'Upper Funnel']",97b0c8824c636d4fe84e6f1513e65547,2023-05-05 17:38:52+00:00
+Other,"['Informational', 'Conversational']",122a165768ea37192677d38aee66dd57,2023-05-05 19:10:38+00:00
+GPU/Gaming,"['Mid Funnel', 'Informational']",94d962fca94024ccaab91483e55f3520,2023-05-05 22:55:35+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",5b633baa6e292d296ce3b244d6b29ea9,2023-05-06 21:59:33+00:00
+Other,"['Upper Funnel', 'Informational']",2270d9f75653038be5888d06c5e5b942,2023-05-06 23:20:28+00:00
+Other,"['Lower Funnel', 'Informational']",b3992d2238968fdd4181d734695995d6,2023-05-07 05:23:49+00:00
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel']",9b6d351a59567b5626ecc35ed0e989b1,2023-05-07 12:27:46+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",3368d50d9dcdf2fbd932febaf14e17cc,2023-05-07 12:39:45+00:00
+Camera/Photography,"['Informational', 'Mid Funnel']",d259f2c73f95cec79048868e280ce1dd,2023-05-07 13:31:11+00:00
+Laptop/Computer,"['Informational', 'Conversational']",d56672b70d9c57d413026fc22d54d2cd,2023-05-07 18:28:13+00:00
+Laptop/Computer,"['Informational', 'Conversational']",6c9449a28429e901cd4273ed525a2837,2023-05-07 18:48:00+00:00
+Other,"['Informational', 'Conversational']",2396156429fe7fa8b710937f96cb4c14,2023-05-08 02:00:12+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",3398dcf3be5f4aa65630b7de559fcf48,2023-05-08 11:08:44+00:00
+Other,"['Informational', 'Generative']",ffcc52f6812b24e12d952710a86f7b2f,2023-05-09 05:41:05+00:00
+Camera/Photography,['Informational'],3925420087afeec22f25bca2940de426,2023-05-09 12:16:00+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",416fc4497f07945ee8b8d48f875914d6,2023-05-09 15:30:27+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",2bd5c21f971739ffaadf0184273e7f77,2023-05-09 17:33:24+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",6e9fc067b27ea3c68285e366b7a03b8f,2023-05-10 06:51:33+00:00
+Other,['Informational'],aa7bc50c2ba7eee48b3c4256d248b7a9,2023-05-10 09:13:35+00:00
+Other,"['Informational', 'Upper Funnel']",02c111be45e9c2d45bdc6be7a112f7a7,2023-05-11 03:57:52+00:00
+"Audio (headphones, earbuds, speakers)",['Generative'],1d6bb703ae73337ee904bcb1d04f2270,2023-05-12 02:31:18+00:00
+Other,"['Informational', 'Conversational']",3944547ba88092b404b9c07df61cb848,2023-05-15 12:24:29+00:00
+Other,"['Informational', 'Conversational']",3016b6589b735da9f71a3e6b8a11db69,2023-05-16 16:45:51+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",2559f28fe093031f28c01239d5539afe,2023-05-17 13:20:46+00:00
+Other,"['Generative', 'Informational']",05fd36b187e0d21f1b1196008c417dab,2023-05-18 10:45:03+00:00
+Other,"['Lower Funnel', 'Generative']",0db2df18e5bc07fcd42ad1f3eff56cc3,2023-05-18 10:49:40+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",64f23afa3813688153b6738318ee86b6,2023-05-18 11:35:32+00:00
+Other,"['Upper Funnel', 'Informational']",16452ff8943ceac3d6493c4b420f378a,2023-05-18 12:37:07+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",6d43da0a6506ba4d275bde856a3b9b2d,2023-05-18 13:28:28+00:00
+Other,"['Informational', 'Conversational']",864c4915caf06a441ef56e4c786669e3,2023-05-18 15:43:32+00:00
+Other,"['Upper Funnel', 'Informational']",80723808319b8a09b37929738e637e52,2023-05-19 08:30:00+00:00
+TV/Display,['Informational'],71a82e629e61a0af0b72a350acffac80,2023-05-20 23:08:28+00:00
+Other,"['Generative', 'Informational']",ba523816402136b511ed778371f0bb3c,2023-05-21 10:28:11+00:00
+Laptop/Computer,"['Mid Funnel', 'Lower Funnel']",6e1ccc12395108df3948440d08867912,2023-05-21 12:24:53+00:00
+Other,"['Lower Funnel', 'Informational']",216926f2ebdba9481b4b6e805178ffdf,2023-05-21 14:26:34+00:00
+Other,"['Informational', 'Conversational']",dcf41ef99b93c1b78aa785b75cc5164f,2023-05-21 18:21:34+00:00
+Other,"['Upper Funnel', 'Informational']",d8b5d8d4d4eac7d28793711e5f81852b,2023-05-22 06:08:04+00:00
+Other,"['Upper Funnel', 'Informational']",34718d1881b9c82ba5698ba607ec0c8c,2023-05-22 06:19:21+00:00
+Other,"['Lower Funnel', 'Post-purchase']",9f968c6e3bc6fb66e445ae8d128c9bd5,2023-05-22 09:19:41+00:00
+Other,"['Informational', 'Conversational']",4b7a67a955770d89890457d8a15fae78,2023-05-22 15:40:32+00:00
+Other,"['Upper Funnel', 'Informational']",4a303a1d4d8a7acfb668317e6d7a9043,2023-05-22 16:58:35+00:00
+Other,"['Upper Funnel', 'Informational']",2ff023b50839dc95d99a3ec2fc337cd7,2023-05-22 19:51:13+00:00
+Other,"['Informational', 'Generative']",61dbfad07d0f0be0b11bb15fa5b2ebf4,2023-05-23 06:05:48+00:00
+Phone/Tablet,"['Informational', 'Generative']",dedebca9ff29b9d54036df6dbeede608,2023-05-25 06:02:25+00:00
+Laptop/Computer,"['Informational', 'Generative']",77a2cb972e894468b9e5eec4fef5845b,2023-05-26 22:32:11+00:00
+Camera/Photography,"['Upper Funnel', 'Informational']",33388371c59f7f13752b39e5fc48ed0f,2023-05-27 21:29:35+00:00
+TV/Display,"['Upper Funnel', 'Conversational']",234540de7a7b4987a2c8fb669cfdc151,2023-05-28 00:43:38+00:00
+Other,"['Upper Funnel', 'Informational']",72b23521ac0c23546d9746a417e23eae,2023-05-29 22:45:56+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel', 'Informational']",614ce09c33962c702a0b875f9a96c495,2023-05-30 22:23:33+00:00
+Other,"['Informational', 'Generative']",92a94a9644a3983bdb59a06b970f72e8,2023-05-31 01:10:50+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel', 'Informational']",62b1cd667cbbf74359fe7b6439e3d3ee,2023-06-02 17:25:29+00:00
+GPU/Gaming,['Lower Funnel'],5cbe21c6d967608dbd44d7c84c0f644c,2023-06-02 18:45:14+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",c589239c9e2d981abb8960b96289f31a,2023-06-02 21:45:50+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",22eb667f4ce0f4982029aae2579b4ec8,2023-06-04 12:27:04+00:00
+GPU/Gaming,"['Informational', 'Upper Funnel']",030881cf9e9d6cfe91e3de9adbf44406,2023-06-04 18:03:52+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",510315116ade43b82c2c3a1edd8f775a,2023-06-04 19:33:55+00:00
+Other,"['Upper Funnel', 'Informational']",e45bb938504db1c001317f168c592618,2023-06-05 21:46:44+00:00
+Other,"['Upper Funnel', 'Mid Funnel', 'Informational']",b65a4e8732f8366d3cb5e236ca61059c,2023-06-06 00:59:50+00:00
+Other,"['Upper Funnel', 'Informational']",b249e29842400a1065afe5389b693f3d,2023-06-06 10:31:18+00:00
+Other,"['Generative', 'Conversational']",7fd4565d98d89d0e6f109e0df356820e,2023-06-06 23:07:36+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel', 'Informational']",ebb35d141716b830836c9349bdcef63d,2023-06-07 07:25:17+00:00
+Other,"['Generative', 'Informational']",c0189d6b3c3b5c174c43ba1bf8f48426,2023-06-07 11:24:15+00:00
+GPU/Gaming,['Lower Funnel'],786390ef743f0c392f13e03b2cd31f46,2023-06-07 12:57:54+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",f774d7225b486ec7f71246b35f338e01,2023-06-08 10:35:47+00:00
+Other,"['Informational', 'Conversational']",029d46ae96d08dedf3334a84becb1c80,2023-06-09 02:40:54+00:00
+Other,"['Informational', 'Conversational']",fa79c84d17958c2e72c0c36f12644bb9,2023-06-09 17:51:10+00:00
+Other,"['Generative', 'Informational']",f2230d8c38d349110492475e9bb5c1af,2023-06-09 19:24:20+00:00
+Other,"['Upper Funnel', 'Informational']",266d25da122409bbf3b04ba0fa0681a2,2023-06-10 19:36:09+00:00
+Other,['Generative'],f6e208add86790a7c75ab05a50f195ed,2023-06-12 06:40:37+00:00
+Other,"['Generative', 'Informational']",27f8cf23d08f570c27f21350e7ca2e93,2023-06-13 14:39:42+00:00
+Other,"['Informational', 'Conversational']",497251cf10582062d66bde7dacd9ea08,2023-06-14 06:46:14+00:00
+Laptop/Computer,['Mid Funnel'],c3ffd11f1a4f818b61c65448973a477f,2023-06-14 07:58:16+00:00
+Laptop/Computer,['Mid Funnel'],d05984eb9b1f204a9041f64a24101f10,2023-06-14 08:12:46+00:00
+Other,"['Upper Funnel', 'Generative']",20529cb00e5258144b04f76b917bc6a2,2023-06-14 21:22:58+00:00
+Laptop/Computer,"['Mid Funnel', 'Informational']",adcab9aeaf294e549fd0554dede6b390,2023-06-15 13:48:57+00:00
+Other,"['Informational', 'Conversational']",3f2213d7d631eddf127ae27c0d1b3e8b,2023-06-16 07:32:47+00:00
+GPU/Gaming,"['Generative', 'Informational']",dc980af269fb7a5eb5e66e3ff1758af2,2023-06-16 08:19:02+00:00
+GPU/Gaming,"['Mid Funnel', 'Informational']",42e33cb2a86db3509d96b7a2291b26dd,2023-06-16 11:33:16+00:00
+Other,"['Upper Funnel', 'Informational']",57b77f92bd9e019720a07670f95d1379,2023-06-17 15:20:09+00:00
+Other,"['Informational', 'Conversational']",1c0fa3d18f2ded451c4c49c2365f67c0,2023-06-17 15:52:50+00:00
+Other,"['Upper Funnel', 'Informational']",974f527aea003c2698a72fc642fb54c8,2023-06-18 02:41:13+00:00
+Other,"['Upper Funnel', 'Mid Funnel', 'Generative']",a2027d676788d07c8792fb0c6c0c3191,2023-06-18 22:10:20+00:00
+GPU/Gaming,"['Mid Funnel', 'Informational']",0a6a4d9c35069deb4f26d6c50fc3b720,2023-06-20 06:25:32+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",317ab8d90601d3445a4930ac103a83b4,2023-06-20 17:49:42+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel']",798c1beb5a4b3739f7980a00ebc6b95f,2023-06-21 17:38:38+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel', 'Informational']",91a8bd43445422d482bf9628293c71c6,2023-06-21 20:49:35+00:00
+Other,['Generative'],5fdbcd2196c73caf65cd99f2fc146403,2023-06-22 00:10:58+00:00
+Other,"['Mid Funnel', 'Lower Funnel']",e76ed7a9e394420ad7a95c0d6b5aa5fd,2023-06-24 19:30:57+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",84fba0e8a8b442863c6e9411eb56db1d,2023-06-24 23:11:44+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel']",79edb10c1822eeec7855ab8f3468b55e,2023-06-24 23:35:53+00:00
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel']",ee29041a2778d2086c9e1144a2ccb04d,2023-06-25 03:36:30+00:00
+GPU/Gaming,"['Upper Funnel', 'Informational']",c406e29a72849a4c8d1557fd14e41d57,2023-06-25 04:57:28+00:00
+Other,"['Informational', 'Generative']",f63248520c78bf1e3ad206a904495a1c,2023-06-27 23:33:24+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",8feb1eb1dd970d24739016d1f24adadf,2023-06-29 17:01:23+00:00
+Other,"['Upper Funnel', 'Informational']",3c6819fd07633bb38d91993aabd7345e,2023-06-30 16:18:18+00:00
+Other,"['Informational', 'Generative']",7ac07edb1863c89052455926cefc95b4,2023-07-01 05:04:31+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",73a374713fe0be0ddfd9160c22c738e0,2023-07-02 16:15:35+00:00
+TV/Display,"['Upper Funnel', 'Mid Funnel', 'Lower Funnel']",fee301887498659af145cb6eedb26253,2023-07-02 20:51:26+00:00
+Other,"['Informational', 'Conversational']",7aa23591368ece002153d9210e01769d,2023-07-04 13:30:40+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",2cdec54085dcdf13ec05d548813d10ea,2023-07-06 06:32:32+00:00
+Other,"['Upper Funnel', 'Informational']",d8afe9f203bed6cf708f5b36a1611ff6,2023-07-06 19:07:01+00:00
+Other,"['Informational', 'Conversational']",05350fc505997cc156569340ee3d34a5,2023-07-07 06:21:47+00:00
+Other,"['Post-purchase', 'Informational']",312e0e1f6e9cb599a23ad73ae3b3ed7d,2023-07-07 08:12:16+00:00
+Other,"['Generative', 'Informational']",067c0e36bebd04075fdb0a7595d3b7e7,2023-07-07 14:10:59+00:00
+Other,"['Upper Funnel', 'Informational']",4a467d1ad9b11d487674d828d8b455b0,2023-07-09 15:44:42+00:00
+Other,"['Upper Funnel', 'Informational']",60c239a7c5ef702a1c4e9a5aa062a913,2023-07-10 05:31:44+00:00
+TV/Display,"['Informational', 'Post-purchase']",f76961fa99c95bd5e53833b38f4d7df4,2023-07-10 12:20:28+00:00
+Other,"['Upper Funnel', 'Mid Funnel']",b76e347749d20e78ae1fad85a011828a,2023-07-10 18:00:12+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",2180ff7b98b315e5b50404d195459b06,2023-07-12 03:59:12+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",66d60ba7e0bda20528e72b1ca4ed2da0,2023-07-12 04:14:26+00:00
+Other,"['Generative', 'Informational']",191b7d97f31fe2eecf7b3241f291ea30,2023-07-14 04:17:32+00:00
+Other,"['Informational', 'Conversational']",fd514278b90ed4ae1af6c7fe70f3762b,2023-07-14 22:05:10+00:00
+Other,"['Informational', 'Conversational']",dc08de2e80753ba0acdd331819c5f116,2023-07-15 08:54:35+00:00
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel', 'Informational']",572284507d3c61bc2edd42a343b4b9d5,2023-07-17 07:15:20+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",a30ce85e3a0e9f112efa37a95e554abc,2023-07-20 08:27:26+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",41fa113514614cc518218b3e86bc7bf2,2023-07-21 03:55:16+00:00
+Laptop/Computer,"['Upper Funnel', 'Mid Funnel']",cebc1bd0872df413b30a4d487e78b7d8,2023-07-21 18:45:39+00:00
+Camera/Photography,"['Upper Funnel', 'Mid Funnel']",47cf43fc0ebfb1b5f69f983a3324ca87,2023-07-22 07:23:06+00:00
+Phone/Tablet,['Generative'],82f85ca37614ca0d0abfa5b11178ea45,2023-07-22 20:23:24+00:00
+"Audio (headphones, earbuds, speakers)","['Mid Funnel', 'Lower Funnel']",3a65bff603defea3ff5ba6d25e5dc4e6,2023-07-23 05:08:51+00:00
+Other,"['Generative', 'Informational']",024dbef04a239d2d8e95ce3a8771a8a8,2023-07-23 13:46:29+00:00
+GPU/Gaming,"['Upper Funnel', 'Conversational']",a69b6942c02264ddb3e7acb4c6b97eb4,2023-07-24 01:01:32+00:00
+Camera/Photography,"['Informational', 'Generative']",68ee47709ab95ccccfdaf19465fa24c8,2023-07-24 11:43:34+00:00
+Other,"['Upper Funnel', 'Informational']",8dc9174b2ee0068b50afaaf5a8ce09d9,2023-07-24 19:59:36+00:00
+TV/Display,['Informational'],8db949e56ea71ea642b1265806cbeac5,2023-07-30 18:41:48+00:00
+Other,"['Informational', 'Conversational']",93b416af44ef1e7c68a1f419091f5b91,2023-07-31 08:24:17+00:00
+GPU/Gaming,"['Lower Funnel', 'Mid Funnel']",0c7b17e40f31bf5df2039f9a41a6ae73,2023-08-01 05:29:18+00:00
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel']",bc5e3218fffade94dac2248cc4caca33,2023-08-01 05:41:14+00:00
+Other,"['Generative', 'Informational']",1b4d73cd78d01a128f92ed66ec3bb414,2023-08-04 13:47:03+00:00
+Other,"['Generative', 'Informational']",5642b4712eb07c7d70d809e2790cb9c6,2023-08-07 06:22:25+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",9b47fb02e0c42293faae0ca73255a5e8,2023-08-07 23:37:29+00:00
+Other,['Lower Funnel'],3cea33d0b27fc852939cae33421bf199,2023-08-08 15:59:38+00:00
+Other,['Lower Funnel'],7a94f001290f3a90673756bb1fc7ca54,2023-08-08 16:10:56+00:00
+Other,['Lower Funnel'],919ae0c1f7d812615271154ac189f7df,2023-08-08 17:20:10+00:00
+Other,['Generative'],8960fc0271d33957197e36475dd3d500,2023-08-10 16:27:27+00:00
+Other,"['Upper Funnel', 'Informational']",e831a8e2b0b0487d17da16f25a2ed3aa,2023-08-11 22:47:20+00:00
+Other,"['Generative', 'Informational']",2b5ea0189afdaede7fa5ac97812afe04,2023-08-13 00:05:10+00:00
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel']",b54531fca14ab050da90753b92838e80,2023-08-13 09:15:36+00:00
+Other,"['Upper Funnel', 'Informational']",0d71f999f7f852e4428cfe12a717dfa3,2023-08-15 16:25:24+00:00
+Other,['Post-purchase'],3ededaf10f1e09739dd12e00702502ab,2023-08-17 04:59:44+00:00
+Other,"['Generative', 'Conversational']",f21362a4bd762c990d579d32b257136f,2023-08-18 11:01:59+00:00
+Camera/Photography,"['Upper Funnel', 'Mid Funnel']",c689ba96030cc800d4d7f1344f3fd063,2023-08-20 10:19:56+00:00
+Other,"['Informational', 'Conversational']",ba2bfe10101c19f76e188d1b9a63d4d8,2023-08-21 08:04:13+00:00
+Phone/Tablet,"['Lower Funnel', 'Informational']",d56ca1e1bc036a6c839ee194cdd30151,2023-08-21 14:10:52+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",63032a81b50ff645fa5b501f2d682226,2023-08-21 14:13:49+00:00
+GPU/Gaming,['Mid Funnel'],025fada80073ec017e1b39e630d8f2ce,2023-08-22 02:11:06+00:00
+Laptop/Computer,"['Upper Funnel', 'Informational']",d8766ee8533bd08d1e22331e77b8dff0,2023-08-23 15:09:38+00:00
+Laptop/Computer,"['Post-purchase', 'Informational']",01a00ee9a75c4c25fa37a2e1e3887665,2023-08-25 17:49:56+00:00
+TV/Display,['Informational'],b5920265d8bf55740f36d23aa661a037,2023-08-27 07:41:48+00:00
+Other,"['Upper Funnel', 'Informational']",5548d6f17d97269bc98fdd20af226c1e,2023-08-27 21:18:59+00:00
+GPU/Gaming,"['Lower Funnel', 'Mid Funnel']",b9e3a25d5e0c02156dcbae372b51a05a,2023-08-29 19:03:31+00:00
+Other,"['Informational', 'Generative', 'Conversational']",effad638e5149d5a28a890553c1b124f,2023-09-01 16:12:17+00:00
+Other,"['Informational', 'Conversational']",94795df11d3d0be92ec1099fe0d50527,2023-09-02 03:34:11+00:00
+Other,"['Generative', 'Conversational']",33cd2cfb2bd595d055430fd87a1b94a1,2023-09-05 23:16:49+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",ca4b3640b03f20896baaba074d49c86b,2023-09-08 01:28:40+00:00
+Other,['Conversational'],d692fce17fa0ca4f4b3e11abf5dbc84d,2023-09-08 07:33:42+00:00
+Other,['Lower Funnel'],8b064d0e2208d8ff966ee89dc6c60608,2023-09-10 11:55:31+00:00
+Phone/Tablet,['Lower Funnel'],24e609e57e39a8bd0fc18a9c4400ed96,2023-09-11 13:42:01+00:00
+Other,['Post-purchase'],96dce60dbb70b7d2770d4d5a1449874d,2023-09-12 04:00:34+00:00
+Other,"['Upper Funnel', 'Mid Funnel']",b375360ed03edfbee16c3ff6f8363a39,2023-09-20 08:50:35+00:00
+Camera/Photography,"['Informational', 'Conversational']",ba25c60e01c66be79c148ebdacbce1b0,2023-09-24 19:05:57+00:00
+Other,"['Mid Funnel', 'Lower Funnel']",1f55598027ea1dee7af40e64258568cc,2023-09-25 17:40:26+00:00
+GPU/Gaming,"['Upper Funnel', 'Mid Funnel']",a83c7b39a1620ddc7987fe490bd1af69,2023-09-25 23:14:29+00:00
+Other,"['Upper Funnel', 'Informational']",578da720dccb97ba759017fe1e8cac6a,2023-09-27 11:55:40+00:00
+"Audio (headphones, earbuds, speakers)","['Mid Funnel', 'Upper Funnel']",d1028a8252312c1bca3c58540f6a73a3,2023-09-27 17:58:21+00:00
+Other,"['Upper Funnel', 'Mid Funnel']",e12e62673f3a765f56d5587389fc251c,2023-09-27 19:52:24+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel', 'Conversational']",2a36fda74289610546b8dc1a31ed268b,2023-09-27 19:56:09+00:00
+Phone/Tablet,"['Mid Funnel', 'Lower Funnel']",273ab0b47f63da5286ea23dbf6e6a4fc,2023-09-27 21:46:15+00:00
+Other,"['Informational', 'Generative']",892eb074528ed938d929acf15018097f,2023-09-28 11:58:40+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",46ddd877ee5c819a2365d60984c891dd,2023-10-01 08:25:39+00:00
+Other,"['Upper Funnel', 'Informational']",27e317684c9ef4cc274df080fa73d1b2,2023-10-01 15:56:24+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",1dfeb6b4c6e5c3a17022d6a7244f9080,2023-10-01 18:44:45+00:00
+Phone/Tablet,['Generative'],9fc96f426a5853735c3b9bb809a6f0dc,2023-10-01 22:08:10+00:00
+GPU/Gaming,"['Mid Funnel', 'Informational']",02189a7f17725050cede6a599e03db2d,2023-10-02 13:07:01+00:00
+Phone/Tablet,"['Upper Funnel', 'Mid Funnel', 'Informational']",29fa18e607ceebbcb226a58f63161bf9,2023-10-02 13:53:31+00:00
+Phone/Tablet,"['Mid Funnel', 'Lower Funnel']",6cbf5e4815db05ff93967d0c1b09289e,2023-10-02 14:01:49+00:00
+Other,"['Informational', 'Conversational']",316f395bb75939bac96bbd524ee1e06d,2023-10-02 19:37:51+00:00
+GPU/Gaming,"['Generative', 'Informational']",d93cb93396c3c2e1c228d6f00cabdb5b,2023-10-03 01:39:38+00:00
+Other,"['Upper Funnel', 'Informational']",c330a7a132f2a05c69668307d8ab0337,2023-10-06 20:48:33+00:00
+Other,['Informational'],bdc65aea44374c79735fd9d97225958a,2023-10-10 07:40:39+00:00
+Other,"['Upper Funnel', 'Informational']",cc2aa6373529e4ce1e164effc628c85a,2023-10-10 22:52:35+00:00
+Laptop/Computer,"['Mid Funnel', 'Informational']",b1e5023dd3b17836367b808a27a054ea,2023-10-11 00:29:09+00:00
+Other,"['Upper Funnel', 'Informational']",c3ebf89fb02ed8aa9b927cece90ed6d1,2023-10-11 16:43:38+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Informational']",5267ceebf96159eac6c5d14a26913514,2023-10-12 16:19:25+00:00
+Camera/Photography,"['Lower Funnel', 'Mid Funnel']",74245bdc228d9873ce8b217d016e9625,2023-10-16 10:46:19+00:00
+Other,"['Informational', 'Conversational']",0ef5dafa57c28749b7c427228d874fbc,2023-10-19 09:26:43+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational', 'Conversational']",2bb770accf6f6ee514c237113f0107c2,2023-10-19 11:26:47+00:00
+"Audio (headphones, earbuds, speakers)","['Upper Funnel', 'Mid Funnel']",09a54d7a9c4d8101166483bd08b24b9d,2023-10-21 12:20:26+00:00
+Phone/Tablet,"['Upper Funnel', 'Informational']",45be52ce1f0d2cf8fe67018b9df0ee27,2023-10-23 14:32:14+00:00
+Other,"['Upper Funnel', 'Mid Funnel']",36ebae5a3bc3d79dba94f9e7dcd0e244,2023-10-24 21:16:21+00:00
+Other,['Informational'],563ee3e1976857f5816a58c7524692c7,2023-10-25 15:59:56+00:00
+GPU/Gaming,"['Mid Funnel', 'Lower Funnel']",291a3db863e3ffa9a423f59d1b72caf9,2023-10-25 20:31:09+00:00
+Phone/Tablet,"['Mid Funnel', 'Upper Funnel']",7892e584999c788ab11bf00264652da1,2023-10-26 00:09:33+00:00
+Other,"['Mid Funnel', 'Lower Funnel']",d022b6e7f8b8d01e23605d8dc19a7aab,2023-10-29 18:34:37+00:00
+Phone/Tablet,"['Mid Funnel', 'Lower Funnel']",6b65573690c9ecd4d3aa79f5a522f1d8,2023-11-01 08:34:11+00:00
+Phone/Tablet,['Lower Funnel'],106d7e20f4218530940eaf50648e3645,2023-11-02 14:33:57+00:00
+Other,"['Informational', 'Conversational']",c1011d0e83fe6360b835fa4fb9df60c7,2023-11-02 17:54:03+00:00
+Phone/Tablet,"['Post-purchase', 'Informational']",e602b769d6cea9dacd4a04e0b7dda820,2023-11-03 02:25:05+00:00
+Other,"['Informational', 'Conversational']",ae98c3ae206e12359f301a4ab90feacf,2023-11-06 05:17:05+00:00
+Other,['Generative'],d2721ef779bb6fb15be531a71a5f7dbe,2023-11-08 21:36:02+00:00
