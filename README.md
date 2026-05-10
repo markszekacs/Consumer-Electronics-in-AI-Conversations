@@ -1,4 +1,4 @@
-# Consumer Electronics in AI Conversations
+# Scalable NLP Evaluation Framework: Hybrid Retrieval on LLM Conversations
 
 Analysis of purchase intent patterns in real-world AI conversations, using the WildChat dataset.
 
